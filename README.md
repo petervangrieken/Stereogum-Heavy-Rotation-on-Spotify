@@ -13,7 +13,7 @@ This is an unofficial application, not sponsored or endorsed by Spotify or any o
 ## Contact
 
 ### Stereogum Heavy Rotation App
-jan at janhoogeveen dot eu // [@janhoogeveen](http://twitter.com/janhoogeveen)
+Made bij Jan Hoogeveen at [Usevine](mailto:hallo@usevine.nl).
 
 
 ### KitchenSink
@@ -23,4 +23,4 @@ andrew at deceptacle dot com // [@andrewburgess](http://twitter.com/andrewburges
 
 ## License
 Distributed under the MIT license. Copyright (c) 2011 Peter Watts
-Additional development by Jan Hoogeveen in 2012 for Usevine.
+Additional development by [Jan Hoogeveen](http://twitter.com/janhoogeveen) in 2012 for Usevine.
