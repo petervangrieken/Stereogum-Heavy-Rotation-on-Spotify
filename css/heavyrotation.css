@@ -1,0 +1,111 @@
+body {
+  background: #DEDEDE;
+}
+header {
+  background: #DEDEDE;
+  height: 80px;
+}
+header .wrapper {
+  width: 90%;
+  margin: 0 auto;
+  background: url('images/stereogum.png') 0 50% no-repeat;
+  height: 80px;
+}
+header .wrapper h1, header .wrapper p {
+  position: absolute;
+  left: 400px;
+}
+header .wrapper h1 {
+  top: 23px;
+  text-transform: uppercase;
+  font-size: 18pt;
+  font-weight: bold;
+  color: #fff;
+  text-shadow: 1px 1px 3px #999;
+}
+header .wrapper p {
+  top: 45px;
+  font-style: italic;
+}
+div#description {
+  width: 90%;
+  line-height: 1.5em;
+  margin: 40px auto;
+}
+div#search-results {
+  width: 90%;
+  margin: 0 auto;
+}
+div#search-results h2 {
+  color: #e7662e;
+  font-weight: normal;
+}
+div#search-results .sp-player {
+  float: left;
+  margin-right: 10px;
+}
+div#search-results .sp-list {
+  width: inherit;
+  max-height: inherit;
+}
+div#search-results .tracklistcontainer {
+  overflow: auto;
+  margin: 10px 0 40px 0;
+}
+div#search-results .sp-list.sp-light:focus .sp-item.sp-track-selected, div#search-results .sp-list.sp-light:focus .sp-item.sp-track-selected * {
+  color: white;
+  text-shadow: 0px 1px 0px #eb4400;
+}
+div#search-results .sp-list.sp-light:focus .sp-item.sp-track-selected {
+  background-color: #eb8137;
+  background-image: initial;
+}
+footer .wrapper {
+  width: 90%;
+  margin: 0 auto;
+  padding: 20px 0;
+  line-height: 1.5em;
+}
+footer .wrapper p {
+  margin-bottom: 0.5em;
+}
+.clear {
+  clear: both;
+}
+.left {
+  float: left;
+}
+.section {
+  display: block;
+  padding: 20px;
+}
+#now-playing {
+  font-size: 24px;
+  margin-bottom: 30px;
+  line-height: 32px;
+}
+#now-playing a {
+  color: #ec4600;
+}
+#player-image {
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+#player-image, #player-image .image {
+  float: left;
+  height: 128px;
+  width: 128px;
+}
+#commands {
+  margin-bottom: 30px;
+}
+ul {
+  list-style: disc;
+  margin-left: 20px;
+}
+a {
+  color: #eb4400;
+}
+#search-term {
+  width: 200px;
+}
