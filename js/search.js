@@ -47,7 +47,6 @@ $(function(){
 							
 								tempPlaylist.add(models.Track.fromURI(track.uri)); // Note: artwork is compiled from first few tracks. if any are local it will fail to generate....
 							}
-
 						});
 
 						
@@ -59,7 +58,9 @@ $(function(){
 						console.log($artisturi);
 						console.log($albumuri);
 						
-						$('#track-results').append('<h2><strong><a href="'+$artisturi+'">'+$artist+'</a></strong> - <a href="'+$albumuri+'">'+$album+'</a></h2>');
+						readmorelink= "http://stereogum.com/tag/"+$artist.toLowerCase()+"/";
+						
+						$('#track-results').append('<h2><span><a href="'+readmorelink+'"><img src="css/images/favicon.png"></a></span> <strong><a href="'+$artisturi+'">'+$artist+'</a></strong> - <a href="'+$albumuri+'">'+$album+'</a></h2>');
 						$('#track-results').append('<div class="tracklistcontainer"></div>');
 						$("#track-results .tracklistcontainer:last-child").append(playlistArt.node);
 	
