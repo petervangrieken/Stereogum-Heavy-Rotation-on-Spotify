@@ -44,6 +44,11 @@ div#search-results h2 span a {
   color: #000;
   font-size: 80%;
 }
+div#search-results h2 a[href^="http:"]::after {
+  margin-left: 3px;
+  content: "";
+  opacity: 0.5;
+}
 div#search-results .sp-player {
   float: left;
   margin-right: 10px;
