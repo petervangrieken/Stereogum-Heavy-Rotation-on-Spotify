@@ -9,7 +9,7 @@ var $spotifyuri = '';
 $(function(){
 
 	//Laad de JSON op met artiesten en albums
-	$.getJSON('http://janhoogeveen.eu/heavyrotation/heavyrotation.json', function(data) {
+	$.getJSON('http://frozenrockets.nl/labs/spotify/stereogum/heavyrotation.js', function(data) {
 
 		$.each(data, function(key, val) {
 			//Lege velden slaan we over
