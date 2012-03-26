@@ -20,5 +20,5 @@ pwattsmail at gmail dot com // [@ptrwtts](http://twitter.com/ptrwtts)
 andrew at deceptacle dot com // [@andrewburgess](http://twitter.com/andrewburgess)
 
 ## License
-Distributed under the MIT license. Copyright (c) 2011 Peter Watts
+Distributed under the MIT license. Copyright (c) 2011 Peter Watts.
 Additional development by [Peter van Grieken](http://twitter.com/petervangrieken) and [Jan Hoogeveen](http://twitter.com/janhoogeveen) in 2012 for Usevine.
