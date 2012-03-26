@@ -9,7 +9,7 @@ var $spotifyuri = '';
 $(function(){
 
 	//Laad de JSON op met artiesten en albums
-	$.getJSON('http://frozenrockets.nl/labs/spotify/stereogum/heavyrotation.js', function(data) {
+	$.getJSON('http://frozenrockets.nl/labs/spotify/stereogum/heavyrotation.json', function(data) {
 
 		$.each(data, function(key, val) {
 			//Lege velden slaan we over
@@ -54,9 +54,6 @@ $(function(){
 
 						playlistArt.track = tempPlaylist.get(0);
 						playlistArt.context = tempPlaylist;
-						
-						console.log($artisturi);
-						console.log($albumuri);
 						
 						readmorelink= "http://stereogum.com/tag/"+$artist.toLowerCase()+"/";
 						
