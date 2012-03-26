@@ -11,9 +11,11 @@ Thank you Peter Watts, for creating the Spotify KitchenSink. This skeleton proje
 This is an unofficial application, not sponsored or endorsed by Spotify or any of the mentioned music blogs. If you wish to develop for Spotify Apps, you must sign up for their Developer Program, and abide by their rules.
 
 ## Contact
+[Peter van Grieken](http://frozenrockets.nl) (Frozen Rockets)
+
 
 ### Stereogum Heavy Rotation App
-Made bij Jan Hoogeveen at [Usevine](mailto:hallo@usevine.nl).
+Made bij Peter van Grieken and Jan Hoogeveen at [Usevine](mailto:hallo@usevine.nl).
 
 
 ### KitchenSink
@@ -23,4 +25,4 @@ andrew at deceptacle dot com // [@andrewburgess](http://twitter.com/andrewburges
 
 ## License
 Distributed under the MIT license. Copyright (c) 2011 Peter Watts
-Additional development by [Jan Hoogeveen](http://twitter.com/janhoogeveen) in 2012 for Usevine.
+Additional development by [Peter van Grieken](http://twitter.com/petervangrieken) and [Jan Hoogeveen](http://twitter.com/janhoogeveen) in 2012 for Usevine.
